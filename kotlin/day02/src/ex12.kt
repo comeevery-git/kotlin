@@ -19,5 +19,13 @@ fun main() {
     }
     println("s3 : $s3")
 
+    var s4:Int = if(n2 ==10){
+        3
+    } else {
+        0
+    }
+    println(s4)
+
+
 
 }
